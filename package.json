@@ -1,0 +1,19 @@
+{
+    "name": "spmb-scraper",
+    "version": "1.0.0",
+    "description": "Script to fetch SPMB data",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-fetch": "^2.6.9",
+        "node-cron": "^3.0.3",
+        "date-fns": "^2.30.0",
+        "date-fns-tz": "^1.3.7",
+        "dotenv": "^16.4.5"
+    }
+}
