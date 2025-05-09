@@ -13,7 +13,7 @@ Service untuk melakukan backup otomatis dari API SPMB SMK Cokroaminoto Wanadadi.
 
 ```bash
 git clone <repository-url>
-cd spmb-backup
+cd spmb-auto-backup
 ```
 
 2. Install dependencies:
